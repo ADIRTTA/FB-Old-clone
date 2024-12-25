@@ -37,12 +37,12 @@ Follow these steps to set up **FB Old Clone**:
 
 3. Install required dependencies:
    ```bash
-   python3 -m pip install -r requirements.txt
+   python3 setup.py
    ```
 
 4. Run the tool:
    ```bash
-   python3 fb_old_clone.py
+   python3 OLD-CLONE.py
    ```
 
 ---
