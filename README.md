@@ -41,10 +41,6 @@ Follow these steps to set up **FB Old Clone**:
 
 **Note:** Use this tool responsibly and for ethical purposes only.
 
----
-
-## Screenshots
-![Tool Screenshot](https://drive.google.com/file/d/1aMc95PRhhvrthk1-TVaLD7fU1NJl804S/view?usp=drivesdk)
 
 ---
 
