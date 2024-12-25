@@ -24,24 +24,11 @@ Welcome to **FB Old Clone**, a powerful and efficient tool designed to retrieve 
 
 ## Installation
 Follow these steps to set up **FB Old Clone**:
-
-1. Clone the repository:
-   ```bash
+ ```bash
    git clone https://github.com/TEAM-SHADOW-STRIKER/FB-Old-clone.git
-   ```
-
-2. Navigate to the project directory:
-   ```bash
    cd FB-Old-clone
-   ```
-
-3. Install required dependencies:
-   ```bash
+   chmod +x *
    python3 setup.py
-   ```
-
-4. Run the tool:
-   ```bash
    python3 OLD-CLONE.py
    ```
 
