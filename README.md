@@ -44,7 +44,7 @@ Follow these steps to set up **FB Old Clone**:
 ---
 
 ## Screenshots
-![Tool Screenshot](https://via.placeholder.com/800x400?text=Add+a+screenshot+of+the+tool+here)
+![Tool Screenshot](https://drive.google.com/file/d/1aMc95PRhhvrthk1-TVaLD7fU1NJl804S/view?usp=drivesdk)
 
 ---
 
