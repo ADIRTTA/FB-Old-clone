@@ -4,7 +4,8 @@
 Welcome to **FB Old Clone**, a powerful and efficient tool designed to retrieve information on old Facebook accounts. This tool is developed by **TEAM SHADOW STRIKER**, focusing on ethical use and educational purposes only.
 
 ---
-
+# Programming Language 
+(https://img.shields.io/badge/OCTAVE-darkblue?style=for-the-badge&logo=octave&logoColor=fcd683)![python]
 ## Features
 - **User-Friendly Interface:** Simple and easy-to-use interface for beginners and experts alike.
 - **Efficient Algorithm:** Fast and reliable information gathering for old Facebook accounts.
