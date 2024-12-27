@@ -5,7 +5,7 @@ Welcome to **FB Old Clone**, a powerful and efficient tool designed to retrieve 
 
 ---
 # Programming Language 
-(https://img.shields.io/badge/OCTAVE-darkblue?style=for-the-badge&logo=octave&logoColor=fcd683)![python]
+(https://img.shields.io/badge/OCTAVE-darkblue?style=for-the-badge&logo=octave&logoColor=fcd683) ![Python]
 ## Features
 - **User-Friendly Interface:** Simple and easy-to-use interface for beginners and experts alike.
 - **Efficient Algorithm:** Fast and reliable information gathering for old Facebook accounts.
